@@ -1,0 +1,36 @@
+
+
+/*Selecionar os elementos - Tag, id, class*/
+
+/*Selecionando por tag*/
+
+p{
+    color: white;
+}
+
+/*Selecionando por id*/
+
+#paragrafo-vermelho{
+    color:blue;
+}
+
+/*Selecionando por class*/
+.paragrafo-laranja{
+    color:orangered;
+}
+
+body{
+background-color: rgb(233, 159, 172);/*cor de fundo*/
+background-image: url(CSS-FLOR.jpg);/*imagem de fundo*/
+background-repeat: no-repeat;
+background-size: 1919px 925px;/*tamanho da imagem*/
+background-attachment: fixed;/*barra de rolagem da imagem de fundo*/
+background-position: ;/*(x,y) - center , left, right, bottom, top*/
+
+/*shorthand - Jeito curto, jeito abreviado
+
+background-color image repeat attachment position*/
+
+background: white url(CSS-FLOR.jpg) no-repeat fixed ;
+background-size: 1919px 925px;/*tamanho da imagem*/
+}

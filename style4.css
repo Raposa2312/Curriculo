@@ -1,0 +1,20 @@
+header{
+    text-align: center;/*alinhamento de texto*/;
+padding: 20px;
+background-color: rgb(228, 181, 189);
+}
+
+section{
+  text-align: center;
+  max-width: 1000px;
+  border: 1px solid;
+  margin: 0 auto ;/*Top-Baixo - Esquerda- Direita*/
+  padding: ;
+  background-color: ;
+
+}
+
+section h2{
+    background-color: rgb(228, 181, 189);
+    color: #000;
+}
